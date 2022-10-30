@@ -1,0 +1,12 @@
+/home/batman/BRENO/DEV/Course micro-services/CQRS-ES/CQRS.Core/bin/Debug/net6.0/CQRS.Core.deps.json
+/home/batman/BRENO/DEV/Course micro-services/CQRS-ES/CQRS.Core/bin/Debug/net6.0/CQRS.Core.dll
+/home/batman/BRENO/DEV/Course micro-services/CQRS-ES/CQRS.Core/bin/Debug/net6.0/ref/CQRS.Core.dll
+/home/batman/BRENO/DEV/Course micro-services/CQRS-ES/CQRS.Core/bin/Debug/net6.0/CQRS.Core.pdb
+/home/batman/BRENO/DEV/Course micro-services/CQRS-ES/CQRS.Core/obj/Debug/net6.0/CQRS.Core.csproj.AssemblyReference.cache
+/home/batman/BRENO/DEV/Course micro-services/CQRS-ES/CQRS.Core/obj/Debug/net6.0/CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/batman/BRENO/DEV/Course micro-services/CQRS-ES/CQRS.Core/obj/Debug/net6.0/CQRS.Core.AssemblyInfoInputs.cache
+/home/batman/BRENO/DEV/Course micro-services/CQRS-ES/CQRS.Core/obj/Debug/net6.0/CQRS.Core.AssemblyInfo.cs
+/home/batman/BRENO/DEV/Course micro-services/CQRS-ES/CQRS.Core/obj/Debug/net6.0/CQRS.Core.csproj.CoreCompileInputs.cache
+/home/batman/BRENO/DEV/Course micro-services/CQRS-ES/CQRS.Core/obj/Debug/net6.0/CQRS.Core.dll
+/home/batman/BRENO/DEV/Course micro-services/CQRS-ES/CQRS.Core/obj/Debug/net6.0/ref/CQRS.Core.dll
+/home/batman/BRENO/DEV/Course micro-services/CQRS-ES/CQRS.Core/obj/Debug/net6.0/CQRS.Core.pdb
