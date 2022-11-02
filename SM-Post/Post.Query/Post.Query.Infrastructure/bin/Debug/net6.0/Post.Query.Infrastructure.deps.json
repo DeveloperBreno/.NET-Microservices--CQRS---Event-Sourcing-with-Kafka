@@ -1010,7 +1010,8 @@
       },
       "Post.Common/1.0.0": {
         "dependencies": {
-          "CQRS.Core": "1.0.0"
+          "CQRS.Core": "1.0.0",
+          "Confluent.Kafka": "1.8.2"
         },
         "runtime": {
           "Post.Common.dll": {}

@@ -389,7 +389,7 @@
     ]
   },
   "packageFolders": {
-    "/home/batman/.nuget/packages/": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -397,11 +397,11 @@
       "projectUniqueName": "/home/batman/BRENO/DEV/Course micro-services/CQRS-ES/CQRS.Core/CQRS.Core.csproj",
       "projectName": "CQRS.Core",
       "projectPath": "/home/batman/BRENO/DEV/Course micro-services/CQRS-ES/CQRS.Core/CQRS.Core.csproj",
-      "packagesPath": "/home/batman/.nuget/packages/",
+      "packagesPath": "/root/.nuget/packages/",
       "outputPath": "/home/batman/BRENO/DEV/Course micro-services/CQRS-ES/CQRS.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/batman/.nuget/NuGet/NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

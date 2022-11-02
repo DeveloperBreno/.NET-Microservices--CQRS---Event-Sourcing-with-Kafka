@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "THmXybJaLEC3AGy7w9i7TcPZitaImvcx16QnJKZ+/Dz8KcqiZ/P4nc35HaQJQNbNksmqyAsu1hvWo9d6aogMDg==",
+  "dgSpecHash": "X7kLQvXKWS9BWBdfHohhmhnVHaDH/bFBBNIpZs7+3wbce0gPu+1/fsO/ejqDI2x8vMqbbyxRXfu+QHouMHNOEA==",
   "success": true,
   "projectFilePath": "/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/Post.Cmd.Api.csproj",
   "expectedPackageFiles": [

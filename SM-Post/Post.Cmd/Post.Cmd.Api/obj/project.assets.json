@@ -433,7 +433,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "CQRS.Core": "1.0.0"
+          "CQRS.Core": "1.0.0",
+          "Confluent.Kafka": "1.8.2"
         },
         "compile": {
           "bin/placeholder/Post.Common.dll": {}
@@ -989,6 +990,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "CQRS.Core >= 1.0.0",
+      "Confluent.Kafka >= 1.8.2",
       "Post.Cmd.Domain >= 1.0.0",
       "Post.Cmd.Infrastructure >= 1.0.0",
       "Post.Common >= 1.0.0",
@@ -996,7 +998,7 @@
     ]
   },
   "packageFolders": {
-    "/home/batman/.nuget/packages/": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -1004,11 +1006,11 @@
       "projectUniqueName": "/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/Post.Cmd.Api.csproj",
       "projectName": "Post.Cmd.Api",
       "projectPath": "/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/Post.Cmd.Api.csproj",
-      "packagesPath": "/home/batman/.nuget/packages/",
+      "packagesPath": "/root/.nuget/packages/",
       "outputPath": "/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/batman/.nuget/NuGet/NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -1045,6 +1047,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "Confluent.Kafka": {
+            "target": "Package",
+            "version": "[1.8.2, )"
+          },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[6.2.3, )"

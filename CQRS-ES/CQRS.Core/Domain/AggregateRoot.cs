@@ -7,14 +7,14 @@ namespace CQRS.Core.Domain
         protected Guid _id;
         private readonly List<BaseEvent> _changes = new();
 
-
         public Guid Id
         {
-            get {return _id;}
+            get { return _id; }
         }
-        public int Version {get; set;} = -1;
 
-        public IEnumerable<BaseEvent> GetUncommitChanges()
+        public int Version { get; set; } = -1;
+
+        public IEnumerable<BaseEvent> GetUncommittedChanges()
         {
             return _changes;
         }
@@ -24,15 +24,18 @@ namespace CQRS.Core.Domain
             _changes.Clear();
         }
 
-        public void ApplyChange(BaseEvent @event, bool isNew)
+        private void ApplyChange(BaseEvent @event, bool isNew)
         {
             var method = this.GetType().GetMethod("Apply", new Type[] { @event.GetType() });
+
             if (method == null)
             {
                 throw new ArgumentNullException(nameof(method), $"The Apply method was not found in the aggregate for {@event.GetType().Name}!");
             }
-            method.Invoke(this, new object[] {@event});
-            if(isNew)
+
+            method.Invoke(this, new object[] { @event });
+
+            if (isNew)
             {
                 _changes.Add(@event);
             }
@@ -50,6 +53,5 @@ namespace CQRS.Core.Domain
                 ApplyChange(@event, false);
             }
         }
-
     }
 }
