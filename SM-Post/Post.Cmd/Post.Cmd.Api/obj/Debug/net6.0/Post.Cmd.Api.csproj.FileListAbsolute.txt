@@ -72,9 +72,6 @@
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/ref/Post.Cmd.Api.dll
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.pdb
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.genruntimeconfig.cache
-/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.dll
-/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/ref/Post.Cmd.Api.dll
-/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.pdb
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.csproj.AssemblyReference.cache
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.GeneratedMSBuildEditorConfig.editorconfig
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.AssemblyInfoInputs.cache
@@ -82,8 +79,11 @@
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.csproj.CoreCompileInputs.cache
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.MvcApplicationPartsAssemblyInfo.cs
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.MvcApplicationPartsAssemblyInfo.cache
-/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/appsettings.Development.json
+/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.dll
+/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/ref/Post.Cmd.Api.dll
+/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.pdb
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/appsettings.json
+/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/appsettings.Development.json
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Cmd.Api
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Cmd.Api.deps.json
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Cmd.Api.runtimeconfig.json

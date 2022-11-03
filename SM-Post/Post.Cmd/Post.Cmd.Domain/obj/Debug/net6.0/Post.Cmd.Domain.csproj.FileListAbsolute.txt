@@ -15,9 +15,6 @@
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/Post.Cmd.Domain.dll
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/ref/Post.Cmd.Domain.dll
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/Post.Cmd.Domain.pdb
-/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/Post.Cmd.Domain.dll
-/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/ref/Post.Cmd.Domain.dll
-/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/Post.Cmd.Domain.pdb
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net6.0/Post.Cmd.Domain.deps.json
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net6.0/Post.Cmd.Domain.dll
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net6.0/ref/Post.Cmd.Domain.dll
@@ -32,3 +29,6 @@
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/Post.Cmd.Domain.AssemblyInfo.cs
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/Post.Cmd.Domain.csproj.CoreCompileInputs.cache
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/Post.Cmd.Domain.csproj.CopyComplete
+/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/Post.Cmd.Domain.dll
+/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/ref/Post.Cmd.Domain.dll
+/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net6.0/Post.Cmd.Domain.pdb

@@ -109,10 +109,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Confluent.Kafka": {
-              "target": "Package",
-              "version": "[1.8.2, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -309,12 +305,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Confluent.Kafka": {
-              "target": "Package",
-              "version": "[1.8.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

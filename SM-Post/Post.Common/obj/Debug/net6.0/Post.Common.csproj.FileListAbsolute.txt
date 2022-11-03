@@ -13,9 +13,6 @@
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.dll
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/ref/Post.Common.dll
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.pdb
-/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.dll
-/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Common/obj/Debug/net6.0/ref/Post.Common.dll
-/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.pdb
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Common/bin/Debug/net6.0/Post.Common.deps.json
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Common/bin/Debug/net6.0/Post.Common.dll
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Common/bin/Debug/net6.0/ref/Post.Common.dll
@@ -28,3 +25,6 @@
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.AssemblyInfo.cs
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.csproj.CoreCompileInputs.cache
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.csproj.CopyComplete
+/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.dll
+/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Common/obj/Debug/net6.0/ref/Post.Common.dll
+/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.pdb

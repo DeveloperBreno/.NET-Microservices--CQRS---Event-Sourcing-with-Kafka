@@ -1302,8 +1302,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "CQRS.Core": "1.0.0",
-          "Confluent.Kafka": "1.8.2"
+          "CQRS.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Post.Common.dll": {}
@@ -3448,7 +3447,7 @@
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/batman/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -3456,11 +3455,11 @@
       "projectUniqueName": "/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Query/Post.Query.Api/Post.Query.Api.csproj",
       "projectName": "Post.Query.Api",
       "projectPath": "/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Query/Post.Query.Api/Post.Query.Api.csproj",
-      "packagesPath": "/root/.nuget/packages/",
+      "packagesPath": "/home/batman/.nuget/packages/",
       "outputPath": "/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Query/Post.Query.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/batman/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

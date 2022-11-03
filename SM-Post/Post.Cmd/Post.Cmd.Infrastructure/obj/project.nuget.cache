@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GgekAtziUTqSaMMXhfxkFG5cveMyvNb6+KQRx2W24wupqtm2NDL65W/T1E5DN6yWHlgXKCJFRnMnd3HQ1+ULZw==",
+  "dgSpecHash": "VwndGL1eOaIkf4WKODWEtJRWvUWRkBzVudZJL3unkpS5uEmraQJBNn/roUN3vUDVRtdJDpyvkhpi22lJF0En/A==",
   "success": true,
   "projectFilePath": "/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/Post.Cmd.Infrastructure.csproj",
   "expectedPackageFiles": [
