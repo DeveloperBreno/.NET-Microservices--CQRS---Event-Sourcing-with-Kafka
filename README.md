@@ -1,11 +1,13 @@
 # .NET-Microservices--CQRS---Event-Sourcing-with-Kafka
-Sean Campbell
+Course author: Sean Campbell
 
-## creating a network
+## preparing the environment
+
+### creating a network
 `
 sudo docker network create --attachable -d bridge mydockernetwork
 `
-to see the networks
+###to see the networks
 `
 sudo docker network ls
 `
