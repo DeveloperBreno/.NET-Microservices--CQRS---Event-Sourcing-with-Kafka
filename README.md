@@ -11,6 +11,13 @@ Course author: Sean Campbell
 `
 sudo docker network create --attachable -d bridge mydockernetwork
 `
+## Prerequisites
+### docker
+### docker compose
+### apahce kafka
+#### create a zoomkeeper_kafka.yml  file and paste this:
+
+
 ### to see the networks
 `
 sudo docker network ls
