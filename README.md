@@ -15,7 +15,10 @@ sudo docker network create --attachable -d bridge mydockernetwork
 ### docker
 ### docker compose
 ### apahce kafka
-#### create a zoomkeeper_kafka.yml  file and paste this:
+#### Use this file "docker-compose.yml" to create a docker container, then open in the same diretory(main directory) and run this command: 
+`
+sudo docker-compose up -d
+`
 
 
 ### to see the networks
