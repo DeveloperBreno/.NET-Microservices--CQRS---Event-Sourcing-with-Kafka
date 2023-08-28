@@ -3,3 +3,4 @@
 ./SM-Post/Post.Query/Post.Query.Api/obj/*
 ./CQRS-ES/CQRS.Core/bin/*
 *.cache
+SM-Post/Post.Query/Post.Query.Api/obj/Debug/net6.0/Post.Query.Api.csproj.AssemblyReference.cache
