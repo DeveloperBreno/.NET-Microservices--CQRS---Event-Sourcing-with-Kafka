@@ -4,3 +4,6 @@
 ./CQRS-ES/CQRS.Core/bin/*
 *.cache
 SM-Post/Post.Query/Post.Query.Api/obj/Debug/net6.0/Post.Query.Api.csproj.AssemblyReference.cache
+SM-Post/Post.Cmd/Post.Cmd.Api/obj/staticwebassets.pack.sentinel
+SM-Post/Post.Query/Post.Query.Api/obj/Debug/net6.0/Post.Query.Api.csproj.AssemblyReference.cache
+SM-Post/Post.Query/Post.Query.Api/obj/staticwebassets.pack.sentinel
