@@ -51,8 +51,8 @@ docker-compose up
 `
 
 #### After started debbuging
-create a user in SQL Server
-`
+##### create a user in SQL Server
+
 USE SocialMedia;
 GO
 
@@ -70,4 +70,4 @@ BEGIN
 	EXEC sp_adduser 'SMUser', 'SMUser', 'db_owner';
 END
 
-`
+
