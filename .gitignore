@@ -1,5 +1,5 @@
 ./SM-Post/Post.Cmd/Post.Cmd.Api/obj/*
-.SM-Post/Post.Cmd/Post.Cmd.Infrastructure/obj/*
-.SM-Post/Post.Query/Post.Query.Api/obj/*
-.CQRS-ES/CQRS.Core/bin/*
+./SM-Post/Post.Cmd/Post.Cmd.Infrastructure/obj/*
+./SM-Post/Post.Query/Post.Query.Api/obj/*
+./CQRS-ES/CQRS.Core/bin/*
 *.cache
