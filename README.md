@@ -15,7 +15,10 @@ sudo docker network create --attachable -d bridge mydockernetwork
 ### docker
 ### docker compose
 ### apahce kafka
-#### create a zoomkeeper_kafka.yml  file and paste this:
+#### Use this file "docker-compose.yml" to create a docker container, then open in the same diretory(main directory) and run this command: 
+`
+sudo docker-compose up -d
+`
 
 
 ### to see the networks
@@ -30,3 +33,21 @@ docker run -it -d --name mongo-container \
 -v mongodb_data_container:/data/db \
 mongo:latest
 `
+
+### SQL Server
+`
+docker run -d --name sql-container \
+--network mydockernetwork \
+--restart always \
+-e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=$tr0ngS@P@ssw0rd02' -e 'MSSQL_PID=Express' \
+-p 1433:1433 mcr.microsoft.com/mssql/server:2017-latest-ubuntu 
+`
+
+
+#### Observation
+To tell docker to deploy containers using a docker-compose.yml, use:
+`
+docker-compose up
+`
+
+
