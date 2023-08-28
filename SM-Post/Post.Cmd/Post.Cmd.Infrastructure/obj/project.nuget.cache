@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VwndGL1eOaIkf4WKODWEtJRWvUWRkBzVudZJL3unkpS5uEmraQJBNn/roUN3vUDVRtdJDpyvkhpi22lJF0En/A==",
+  "dgSpecHash": "XWDE8plUphWgdK82ZyVzHQED4P4MG8M4sTuve6+FYZq4NaSlMphtiLhTS16AtWLgQgQSJ698LlE9+ijbw/r6Dw==",
   "success": true,
-  "projectFilePath": "/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/Post.Cmd.Infrastructure.csproj",
+  "projectFilePath": "/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/Post.Cmd.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/root/.nuget/packages/confluent.kafka/1.8.2/confluent.kafka.1.8.2.nupkg.sha512",
     "/root/.nuget/packages/dnsclient/1.4.0/dnsclient.1.4.0.nupkg.sha512",

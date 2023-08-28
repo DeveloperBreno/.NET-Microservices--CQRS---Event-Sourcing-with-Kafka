@@ -778,19 +778,19 @@
     ]
   },
   "packageFolders": {
-    "/home/batman/.nuget/packages/": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/Post.Cmd.Infrastructure.csproj",
+      "projectUniqueName": "/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/Post.Cmd.Infrastructure.csproj",
       "projectName": "Post.Cmd.Infrastructure",
-      "projectPath": "/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/Post.Cmd.Infrastructure.csproj",
-      "packagesPath": "/home/batman/.nuget/packages/",
-      "outputPath": "/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/obj/",
+      "projectPath": "/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/Post.Cmd.Infrastructure.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/batman/.nuget/NuGet/NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -802,11 +802,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/batman/BRENO/DEV/Course micro-services/CQRS-ES/CQRS.Core/CQRS.Core.csproj": {
-              "projectPath": "/home/batman/BRENO/DEV/Course micro-services/CQRS-ES/CQRS.Core/CQRS.Core.csproj"
+            "/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/CQRS-ES/CQRS.Core/CQRS.Core.csproj": {
+              "projectPath": "/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/CQRS-ES/CQRS.Core/CQRS.Core.csproj"
             },
-            "/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Domain/Post.Cmd.Domain.csproj": {
-              "projectPath": "/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Cmd/Post.Cmd.Domain/Post.Cmd.Domain.csproj"
+            "/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/Post.Cmd.Domain.csproj": {
+              "projectPath": "/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Domain/Post.Cmd.Domain.csproj"
             }
           }
         }
@@ -849,7 +849,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.110/sdk/6.0.110/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.121/RuntimeIdentifierGraph.json"
       }
     }
   }

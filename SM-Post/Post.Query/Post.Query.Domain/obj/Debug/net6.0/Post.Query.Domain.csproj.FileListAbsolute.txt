@@ -22,3 +22,15 @@
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/Post.Query.Domain.dll
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/ref/Post.Query.Domain.dll
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/Post.Query.Domain.pdb
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Domain/bin/Debug/net6.0/Post.Query.Domain.deps.json
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Domain/bin/Debug/net6.0/Post.Query.Domain.dll
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Domain/bin/Debug/net6.0/ref/Post.Query.Domain.dll
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Domain/bin/Debug/net6.0/Post.Query.Domain.pdb
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/Post.Query.Domain.csproj.AssemblyReference.cache
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/Post.Query.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/Post.Query.Domain.AssemblyInfoInputs.cache
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/Post.Query.Domain.AssemblyInfo.cs
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/Post.Query.Domain.csproj.CoreCompileInputs.cache
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/Post.Query.Domain.dll
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/ref/Post.Query.Domain.dll
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/Post.Query.Domain.pdb

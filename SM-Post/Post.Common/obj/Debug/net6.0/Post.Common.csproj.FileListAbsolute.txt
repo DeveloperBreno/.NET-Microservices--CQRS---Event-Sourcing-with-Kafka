@@ -28,3 +28,18 @@
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.dll
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Common/obj/Debug/net6.0/ref/Post.Common.dll
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.pdb
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Common/bin/Debug/net6.0/Post.Common.deps.json
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Common/bin/Debug/net6.0/Post.Common.dll
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Common/bin/Debug/net6.0/ref/Post.Common.dll
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Common/bin/Debug/net6.0/Post.Common.pdb
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Common/bin/Debug/net6.0/CQRS.Core.dll
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Common/bin/Debug/net6.0/CQRS.Core.pdb
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.csproj.AssemblyReference.cache
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.AssemblyInfoInputs.cache
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.AssemblyInfo.cs
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.csproj.CoreCompileInputs.cache
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.csproj.CopyComplete
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.dll
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/ref/Post.Common.dll
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.pdb

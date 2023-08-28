@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LB4bOJ0hq9mjhaXA4TfW8AQXBUfHHYiCnuz27goCO3XEEuIt1wDKiBz63SacieePvcueoBauKAXFQxnI2PmPiA==",
+  "dgSpecHash": "JkZd9RE+J+cxidVwPVGHlOuaxakjkqptXZtNX5YBhpRgA6NWwzq8EH79dhsp5/Cd9LyFo+sUUy17NTmUmAQ8yA==",
   "success": true,
-  "projectFilePath": "/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Common/Post.Common.csproj",
+  "projectFilePath": "/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Common/Post.Common.csproj",
   "expectedPackageFiles": [
     "/root/.nuget/packages/dnsclient/1.4.0/dnsclient.1.4.0.nupkg.sha512",
     "/root/.nuget/packages/mongodb.bson/2.14.1/mongodb.bson.2.14.1.nupkg.sha512",

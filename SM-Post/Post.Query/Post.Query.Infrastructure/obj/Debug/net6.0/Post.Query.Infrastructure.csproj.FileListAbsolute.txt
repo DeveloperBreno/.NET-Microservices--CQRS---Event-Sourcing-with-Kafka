@@ -36,3 +36,22 @@
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/Post.Query.Infrastructure.dll
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/ref/Post.Query.Infrastructure.dll
 /home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/Post.Query.Infrastructure.pdb
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/bin/Debug/net6.0/Post.Query.Infrastructure.deps.json
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/bin/Debug/net6.0/Post.Query.Infrastructure.dll
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/bin/Debug/net6.0/ref/Post.Query.Infrastructure.dll
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/bin/Debug/net6.0/Post.Query.Infrastructure.pdb
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/bin/Debug/net6.0/CQRS.Core.dll
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/bin/Debug/net6.0/Post.Common.dll
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/bin/Debug/net6.0/Post.Query.Domain.dll
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/bin/Debug/net6.0/Post.Query.Domain.pdb
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/bin/Debug/net6.0/Post.Common.pdb
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/bin/Debug/net6.0/CQRS.Core.pdb
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/Post.Query.Infrastructure.csproj.AssemblyReference.cache
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/Post.Query.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/Post.Query.Infrastructure.AssemblyInfoInputs.cache
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/Post.Query.Infrastructure.AssemblyInfo.cs
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/Post.Query.Infrastructure.csproj.CoreCompileInputs.cache
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/Post.Query.Infrastructure.csproj.CopyComplete
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/Post.Query.Infrastructure.dll
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/ref/Post.Query.Infrastructure.dll
+/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/Post.Query.Infrastructure.pdb

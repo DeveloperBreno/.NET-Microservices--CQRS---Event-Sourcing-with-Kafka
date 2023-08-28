@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K6vZyk11q2yk8ku9UUaI4t5dFFg3TFdU7LfHvFurcLYbi8D5AnIaffKT4yrIvQlie4zdXP/A6Qpc6ye5mvZdrw==",
+  "dgSpecHash": "7x379pAarRRTvb8X+7YZHqZ0EPO2p5mHpTmuUn6ga1VWIHh2SemOpuKjHAEDVmVbuix/kC/wMh0W88fDUBQCFg==",
   "success": true,
-  "projectFilePath": "/home/batman/BRENO/DEV/Course micro-services/SM-Post/Post.Query/Post.Query.Domain/Post.Query.Domain.csproj",
+  "projectFilePath": "/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Domain/Post.Query.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

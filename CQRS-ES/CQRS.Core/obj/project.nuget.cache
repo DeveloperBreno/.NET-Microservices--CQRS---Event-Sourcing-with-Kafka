@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AKeHaAp4SXHjEXIRcRj3gktOqcTFsRZ0ei91HqQ3E0iQ0h+j1zrXpZrruhkx4xEnnmBoPxN46dE1v3HDi7sw1A==",
+  "dgSpecHash": "4ZrYT7Q7DaAAIDW0qLcc1eYSootaLJSjF245A4gOgh05RvNnWn13sDTkv24XM2G8eiIh6/cjQRl7V8EmIS6gIw==",
   "success": true,
-  "projectFilePath": "/home/batman/BRENO/DEV/Course micro-services/CQRS-ES/CQRS.Core/CQRS.Core.csproj",
+  "projectFilePath": "/home/breno/Documents/dev/microservices/.NET-Microservices--CQRS---Event-Sourcing-with-Kafka/CQRS-ES/CQRS.Core/CQRS.Core.csproj",
   "expectedPackageFiles": [
     "/root/.nuget/packages/dnsclient/1.4.0/dnsclient.1.4.0.nupkg.sha512",
     "/root/.nuget/packages/mongodb.bson/2.14.1/mongodb.bson.2.14.1.nupkg.sha512",
