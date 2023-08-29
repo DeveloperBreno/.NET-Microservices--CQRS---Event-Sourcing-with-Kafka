@@ -15,6 +15,7 @@ namespace Post.Query.Infrastructure.DataAccess
         {
             DbContextOptionsBuilder<DatabaseContext> optionsBuilder = new();
             _configureDbContext(optionsBuilder);
+
             return new DatabaseContext(optionsBuilder.Options);
         }
     }
