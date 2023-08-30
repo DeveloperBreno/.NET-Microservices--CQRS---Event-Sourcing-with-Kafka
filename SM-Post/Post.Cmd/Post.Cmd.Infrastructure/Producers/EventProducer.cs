@@ -6,18 +6,13 @@ using Microsoft.Extensions.Options;
 
 namespace Post.Cmd.Infrastructure.Producers
 {
-    public class EventProducer :  IEventProducer
+    public class EventProducer : IEventProducer
     {
         private readonly ProducerConfig _config;
 
         public EventProducer(IOptions<ProducerConfig> config)
         {
             _config = config.Value;
-        }
-
-        public object GetService(Type serviceType)
-        {
-            throw new NotImplementedException();
         }
 
         public async Task ProduceAsync<T>(string topic, T @event) where T : BaseEvent

@@ -11,7 +11,7 @@ namespace Post.Cmd.Infrastructure.Handlers
 
         public EventSourcingHandler(IEventStore eventStore)
         {
-            _eventStore = eventStore;        
+            _eventStore = eventStore;
         }
 
         public async Task<PostAggregate> GetByIdAsync(Guid aggregateId)
@@ -19,18 +19,17 @@ namespace Post.Cmd.Infrastructure.Handlers
             var aggregate = new PostAggregate();
             var events = await _eventStore.GetEventsAsync(aggregateId);
 
-            if(events == null || !events.Any()) return aggregate;
+            if (events == null || !events.Any()) return aggregate;
 
             aggregate.ReplayEvents(events);
-            var latestVersion = events.Select(x => x.Version).Max();
+            aggregate.Version = events.Select(x => x.Version).Max();
 
             return aggregate;
-
         }
 
         public async Task SaveAsync(AggregateRoot aggregate)
         {
-            await _eventStore.SaveEventAsync(aggregate.Id, aggregate.GetUncommittedChanges(), aggregate.Version);
+            await _eventStore.SaveEventsAsync(aggregate.Id, aggregate.GetUncommittedChanges(), aggregate.Version);
             aggregate.MarkChangesAsCommitted();
         }
     }

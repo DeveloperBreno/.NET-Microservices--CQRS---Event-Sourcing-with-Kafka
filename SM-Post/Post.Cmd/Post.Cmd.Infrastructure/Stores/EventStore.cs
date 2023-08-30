@@ -5,7 +5,7 @@ using CQRS.Core.Infrastructure;
 using CQRS.Core.Producers;
 using Post.Cmd.Domain.Aggregates;
 
-namespace Post.Cmd.Infrastructure.Store
+namespace Post.Cmd.Infrastructure.Stores
 {
     public class EventStore : IEventStore
     {
@@ -28,13 +28,13 @@ namespace Post.Cmd.Infrastructure.Store
             return eventStream.OrderBy(x => x.Version).Select(x => x.EventData).ToList();
         }
 
-        public async Task SaveEventAsync(Guid aggregateId, IEnumerable<BaseEvent> events, int expectedVersion)
+        public async Task SaveEventsAsync(Guid aggregateId, IEnumerable<BaseEvent> events, int expectedVersion)
         {
             var eventStream = await _eventStoreRepository.FindByAggregateId(aggregateId);
-            
+
             if (expectedVersion != -1 && eventStream[^1].Version != expectedVersion)
                 throw new ConcurrencyException();
-        
+
             var version = expectedVersion;
 
             foreach (var @event in events)
@@ -42,7 +42,8 @@ namespace Post.Cmd.Infrastructure.Store
                 version++;
                 @event.Version = version;
                 var eventType = @event.GetType().Name;
-                var eventModel = new EventModel{
+                var eventModel = new EventModel
+                {
                     TimeStamp = DateTime.Now,
                     AggregateIdentifier = aggregateId,
                     AggregateType = nameof(PostAggregate),
@@ -52,7 +53,7 @@ namespace Post.Cmd.Infrastructure.Store
                 };
 
                 await _eventStoreRepository.SaveAsync(eventModel);
-                
+
                 var topic = Environment.GetEnvironmentVariable("KAFKA_TOPIC");
                 await _eventProducer.ProduceAsync(topic, @event);
             }
